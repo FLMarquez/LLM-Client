@@ -33,13 +33,13 @@ Este proyecto implementa una interfaz común que permite cambiar de proveedor de
 <!-- Es necesario crear .env con lo siguiente
 
 # OpenAI
-OPENAI_API_KEY=tu api key
+OPENAI_API_KEY=tu api keyy
 
 # Anthropic
-ANTHROPIC_API_KEY=tu api key
+ANTHROPIC_API_KEY=tu api keyy
 
 # Google Gemini
-GEMINI_API_KEY=tu api key
+GEMINI_API_KEY=tu api keyy
 
 # Selección del proveedor por defecto: openai, anthropic, gemini
 DEFAULT_PROVIDER=gemini -->
