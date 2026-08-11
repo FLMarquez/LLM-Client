@@ -28,3 +28,18 @@ Este proyecto implementa una interfaz común que permite cambiar de proveedor de
    venv\Scripts\activate
 
    pip install -r requirements.txt
+
+
+<!-- Es necesario crear .env con lo siguiente
+
+# OpenAI
+OPENAI_API_KEY=tu api key
+
+# Anthropic
+ANTHROPIC_API_KEY=tu api key
+
+# Google Gemini
+GEMINI_API_KEY=tu api key
+
+# Selección del proveedor por defecto: openai, anthropic, gemini
+DEFAULT_PROVIDER=gemini -->
